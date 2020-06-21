@@ -8,10 +8,10 @@ import com.springboot.resources.HelloWorld;
 
 @SpringBootApplication
 @ComponentScan(basePackageClasses=HelloWorld.class)
-public class SpringbootoneApplication {
+public class SpringBootOneApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootoneApplication.class, args);
+		SpringApplication.run(SpringBootOneApplication.class, args);
 	}
 
 }
